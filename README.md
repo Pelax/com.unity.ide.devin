@@ -9,7 +9,7 @@ A Unity package that adds support for **Devin Desktop** (formerly **Windsurf**) 
 3. Click the **"+"** button in the top-left corner.
 4. Select **"Add package from git URL..."**.
 5. Insert the git repository URL:
-   `https://github.com/Asuta/com.unity.ide.windsurf.git`
+   `https://github.com/Pelax/com.unity.ide.devin.git`
 6. Click **Add**.
 7. Go to **Edit** -> **Preferences** -> **External Tools** and select **Devin Desktop** or **Windsurf** from the **External Script Editor** dropdown list.
 
